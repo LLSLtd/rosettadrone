@@ -2,6 +2,7 @@
 ## Supports Android 8.0 and newer, with DJI SDK 4.11.1 and Androidx
 
 ## The project now works on DJI Mavic 2 Pro/Zoom/Enterprise & Mavic Air (and possibly more), and all got live H.264 video stream out, tested on  QGroundcontrol.
+### No Video on AIR yet 
 
             ### **Please create issues and create PR on this fork.** 
 
